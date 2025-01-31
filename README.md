@@ -1,8 +1,5 @@
-# React + Vite
+# AI Recipe App
+Get recipes from your favorite ingredients!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![page 1](https://github.com/user-attachments/assets/5e641fda-711f-472c-a30d-51ec3800e58a)
+![page 4](https://github.com/user-attachments/assets/5d48f023-c297-44ee-a884-c8cfc9a1837e)
